@@ -1,0 +1,9 @@
+[package]
+name = "deadbot"
+version = "0.1.0"
+authors = ["De4d brain <git@dead-brain.fr>"]
+
+[dependencies]
+irc = "0.9.2"
+rand = "*"
+lettre = "*"
